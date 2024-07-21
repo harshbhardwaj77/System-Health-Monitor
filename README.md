@@ -23,4 +23,5 @@ You can configure the thresholds for system health checks by modifying the follo
    pip install psutil
 
 2. **Run The Script**
+   ```bash
    python monitor.py 
